@@ -1,0 +1,28 @@
+{
+  "name": "tamplier",
+  "version": "0.1.0",
+  "description": "![npm version](https://img.shields.io/npm/v/tamplier.svg)",
+  "main": "index.js",
+  "bin": {
+    "tamplier": "bin/tamplier.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/tamplier.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/tamplier/issues"
+  },
+  "homepage": "https://github.com/drom/tamplier#readme",
+  "devDependencies": {
+    "commander": "^14.0.1"
+  }
+}
