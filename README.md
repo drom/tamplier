@@ -1,4 +1,4 @@
-![npm version](https://img.shields.io/npm/v/tamplier.svg)
+[![npm version](https://img.shields.io/npm/v/tamplier.svg)](https://www.npmjs.com/package/tamplier)
 
 Collection JS generators of C functions for:
 * json5 consumption
